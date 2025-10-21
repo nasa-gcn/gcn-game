@@ -25,7 +25,7 @@
     "lint-staged": "^16.1.2",
     "prettier": "^3.6.2",
     "typescript": "~5.7.2",
-    "vite": "^6.3.1"
+    "vite": "^6.4.1"
   },
   "dependencies": {
     "phaser": "^3.90.0",
